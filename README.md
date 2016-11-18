@@ -10,7 +10,7 @@
 
 \* Для мультидиалога(беседы) -- ид + 2000000000
 
-\*\* Получить токен можно по ссылке https://oauth.vk.com/authorize?client_id=<APP_ID>&display=page&redirect_uri=https://oauth.vk.com/blank.html&response_type=token&v=5.8&scope=offline,friends,messages
+\*\* Получить токен можно по ссылке <https://oauth.vk.com/authorize?client_id=<APP_ID>&display=page&redirect_uri=https://oauth.vk.com/blank.html&response_type=token&v=5.8&scope=offline,friends,messages>
 
 Алгоритм:
 
